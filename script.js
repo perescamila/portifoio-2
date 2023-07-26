@@ -26,7 +26,7 @@ function ativacaoMenu(){
 
 ativacaoMenu()
 
-function sobreMim(){
+function sobremim (){
     const experiencia = document.querySelectorAll('.experience_content div');
     const botao = document.querySelectorAll('.experience_content ul li')
     const education = document.querySelectorAll('.education_content div');
@@ -73,7 +73,7 @@ function sobreMim(){
         })
     })
 }
-sobreMim();
+sobremim();
 
 
 
